@@ -1,6 +1,6 @@
 opencv_contrib_python
-opencv_python
-opencv_python_headless
+opencv
+libegl1
 Pillow
 
 Requests
