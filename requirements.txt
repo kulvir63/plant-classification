@@ -1,8 +1,7 @@
 opencv_contrib_python
-opencv
-libegl1
+opencv_python
+opencv_python_headless
 Pillow
-
 Requests
 streamlit
 ultralytics
