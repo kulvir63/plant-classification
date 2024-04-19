@@ -1,8 +1,8 @@
-opencv_contrib_python==4.8.0.76
-opencv_python==4.8.0.76
-opencv_python_headless==4.9.0.80
-Pillow==9.4.0
-Pillow==10.3.0
-Requests==2.31.0
-streamlit==1.33.0
-ultralytics==8.2.2
+opencv_contrib_python
+opencv_python
+opencv_python_headless
+Pillow
+
+Requests
+streamlit
+ultralytics
